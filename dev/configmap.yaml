@@ -1,4 +1,4 @@
-hostname: bigbang.dev
+hostname: bigbang.tetrate.zwickey.net
 
 flux:
   interval: 1m
